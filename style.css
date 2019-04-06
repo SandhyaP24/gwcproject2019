@@ -6,8 +6,8 @@ h1{
 h2{
   font-size: 20px;
    font-family: "Playfair Display",  serif;
-
-  border-width: 5px;
+border-style: dotted;
+  border-width: 2px;
 }
 p{
    font-family: "Playfair Display",  serif;
@@ -22,20 +22,20 @@ li{
 h3{
   font-size: 20px;
   font-family: "Playfair Display", serif;
- 
-  border-width: 5px;
+ border-style: dotted;
+  border-width: 2px;
 }
 h4{
   font-size: 20px;
   font-family: "Playfair Display", serif;
-
-  border-width: 5px;
+border-style: dotted;
+  border-width: 2px;
 }
 h5{
   font-size: 20px;
   font-family: "Playfair Display", serif;
-
-  border-width: 5px;
+border-style: dotted;
+  border-width: 2px;
 }
 body{
   background-color: rgb(154, 237, 229);
