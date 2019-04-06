@@ -40,6 +40,7 @@ border-style: dotted;
 body{
   background-color: rgb(154, 237, 229);
   border-style: solid;
+    border-color: rgb(201, 170, 239);
   border-width: 15px;
 }
 
