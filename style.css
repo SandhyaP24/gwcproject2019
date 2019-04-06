@@ -7,6 +7,7 @@ h2{
   font-size: 20px;
    font-family: "Playfair Display",  serif;
 border-style: dotted;
+  border-color: rgb(188, 33, 85);
   border-width: 2px;
 }
 p{
@@ -23,18 +24,21 @@ h3{
   font-size: 20px;
   font-family: "Playfair Display", serif;
  border-style: dotted;
+  border-color: rgb(188, 33, 85);
   border-width: 2px;
 }
 h4{
   font-size: 20px;
   font-family: "Playfair Display", serif;
 border-style: dotted;
+  border-color: rgb(188, 33, 85);
   border-width: 2px;
 }
 h5{
   font-size: 20px;
   font-family: "Playfair Display", serif;
 border-style: dotted;
+  border-color: rgb(188, 33, 85);
   border-width: 2px;
 }
 body{
