@@ -5,8 +5,8 @@ h1{
 }
 h2{
   font-size: 20px;
-   font-family: "Playfair Display",  serif;
-border-style: dotted;
+  font-family: "Playfair Display",  serif;
+  border-style: dotted;
   border-color: rgb(188, 33, 85);
   border-width: 2px;
 }
@@ -23,7 +23,7 @@ li{
 h3{
   font-size: 20px;
   font-family: "Playfair Display", serif;
- border-style: dotted;
+  border-style: dotted;
   border-color: rgb(188, 33, 85);
   border-width: 2px;
 }
@@ -51,6 +51,6 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 20%;
 }
 
