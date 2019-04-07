@@ -47,4 +47,10 @@ body{
     border-color: rgb(201, 170, 239);
   border-width: 15px;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
