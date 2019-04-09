@@ -41,6 +41,20 @@ border-style: dotted;
   border-color: rgb(44, 119, 224);
   border-width: 2px;
 }
+h6{
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+border-style: dotted;
+  border-color: rgb(44, 119, 224);
+  border-width: 2px;
+}
+h7{
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+border-style: dotted;
+  border-color: rgb(44, 119, 224);
+  border-width: 2px;
+}
 body{
   background-color: rgb(232, 223, 180);
   border-style: solid;
