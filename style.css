@@ -1,42 +1,42 @@
 h1{
-  font-family: "Playfair Display",  serif;
+  font-family: 'Niconne', cursive;
  
   border-width: 15px;
 }
 h2{
   font-size: 20px;
-  font-family: "Playfair Display",  serif;
+  font-family: 'Niconne', cursive;
   border-style: dotted;
   border-color: rgb(44, 119, 224);
   border-width: 2px;
 }
 p{
-   font-family: "Playfair Display",  serif;
+  font-family: 'Niconne', cursive;
 
   border-width: 5px;
 }
 li{
-   font-family: "Playfair Display",  serif;
+   font-family: 'Niconne', cursive;
  
   border-width: 5px;
 }
 h3{
   font-size: 20px;
-  font-family: "Playfair Display", serif;
+  font-family: 'Niconne', cursive;
   border-style: dotted;
   border-color: rgb(44, 119, 224);
   border-width: 2px;
 }
 h4{
   font-size: 20px;
-  font-family: "Playfair Display", serif;
+  font-family: 'Niconne', cursive;
 border-style: dotted;
   border-color: rgb(44, 119, 224);
   border-width: 2px;
 }
 h5{
   font-size: 20px;
-  font-family: "Playfair Display", serif;
+  font-family: 'Niconne', cursive;
 border-style: dotted;
   border-color: rgb(44, 119, 224);
   border-width: 2px;
